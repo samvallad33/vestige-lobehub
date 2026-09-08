@@ -19,6 +19,11 @@
     "backfill",
     "causal-memory"
   ],
+  "artifacts": {
+    "npm": {
+      "packageName": "vestige-mcp-server"
+    }
+  },
   "tools": [
     {
       "name": "recall",
